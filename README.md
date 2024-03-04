@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **django, mangodb**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing](https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing)
-
 - 📫 How to reach me **jenineeuq22@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing](https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing)
