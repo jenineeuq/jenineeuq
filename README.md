@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jenifa S Joanna</h1>
+<h1 align="center">Hi Jenifa here 😀👋</h1>
 <h3 align="center">Full-Stack Developer|Designer|from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709251200&semt=ais">
 
