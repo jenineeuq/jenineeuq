@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **django, mangodb**
 
 - 📫 How to reach me **jenineeuq22@gmail.com**
-- 
+  
 - 📄 Know about my experiences  [Resume](https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
