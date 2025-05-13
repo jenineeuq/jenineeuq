@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jenineeuq22@gmail.com**
   
-- 📄 Know about my experiences  [Resume](https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing)
+- 📄 Know about my experiences  [Resume]([https://docs.google.com/document/d/1awRHec_UlsmoC0gq6ZQT6WMIjfHyFd3o1s35T8dNLt8/edit?usp=sharing](https://drive.google.com/file/d/1jT_gk-n1htUeutMjLy7y9S_zsdsdAj5L/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
